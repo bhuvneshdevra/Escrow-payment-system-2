@@ -1,0 +1,5 @@
+const SUPABASE_URL =
+"https://tkprbtfbgdkvsstskdvv.supabase.co";
+
+const SUPABASE_ANON_KEY =
+"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InRrcHJidGZiZ2RrdnNzdHNrZHZ2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODIwMjEzODAsImV4cCI6MjA5NzU5NzM4MH0.3nzWeyKVevvcJ_sB9AjnhXvnU2NdpkEP0cIdMdNsuJM";
